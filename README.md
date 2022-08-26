@@ -3,10 +3,9 @@
     <h1> Hi there, I'm Roshaan Ullah Zaheer👋<a href="#"></h1>
   </div>
 <p align="center">
-<a href="https://github.com/Roshaan-Ullah-Zaheer1"><img src="https://readme-typing-svg.herokuapp.com?lines=Data+Scientist&center=true&width=500&height=50"></a>
-	
-## My Python Development Course 
-- [Python Backend Show with Saad Fareed](https://www.youtube.com/channel/UCB5JukXadSvscRtCI0JfGmw)
+<a href="https://github.com/Roshaan-Ullah-Zaheer1">
+<img src="https://readme-typing-svg.herokuapp.com?lines=Data+Scientist&center=true&width=500&height=50">
+</a>
 
 ### I'm a Python Developer, Teacher and Researcher!
 - 🔭 I’m currently working as Backend Engineer @Turingcom.
