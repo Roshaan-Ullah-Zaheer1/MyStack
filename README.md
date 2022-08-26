@@ -45,10 +45,10 @@
         <img src="https://github.com/bestofjs/bestofjs-webui/blob/master/public/logos/vscode.svg" width="80">
     </td>
     <td align='center' width="200" >
-	<img src="https://1000logos.net/wp-content/uploads/2020/08/Visual-Studio-Logo.png" width="100">
+	<img src="https://1000logos.net/wp-content/uploads/2020/08/Visual-Studio-Logo.png" width="120">
      </td>
     <td align='center' width="200">
-        <img src="https://flyclipart.com/thumb2/numba-a-high-performance-python-compiler-205859.png" width="80">
+        <img src="https://www.pinpng.com/pngs/m/98-987797_anaconda-icon-anaconda-icon-png-transparent-png.png" width="80">
     </td> 
 </tr>
 </table>
