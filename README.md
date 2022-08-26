@@ -31,8 +31,9 @@
         <img src="https://git-scm.com/images/logos/1color-darkbg@2x.png" width="100">
     </td>
 <td align='center'>
-        <img src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" >
+        <img src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" 
     </td> 
+
 </tr>
  
 <tr>
@@ -45,6 +46,9 @@
  <td align='center'>
         <img src="https://github.com/bestofjs/bestofjs-webui/blob/master/public/logos/vscode.svg" width="80">
     </td>
+<td align='center'>
+	<img src="https://1000logos.net/wp-content/uploads/2020/08/Visual-Studio-Logo.png">
+	</td>
   
 </tr>
 
