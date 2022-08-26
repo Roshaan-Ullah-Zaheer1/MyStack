@@ -33,27 +33,25 @@
 <td align='center' width="200">
         <img src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" width="80> 
     </td> 					
-	</tr>
+</tr>
                                                 
 <tr>
-    <td align='center' width="200">
+    <td align='center'>
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/600px-HTML5_Badge.svg.png"  width="80">
     </td>
-    <td align='center' width="200">
+    <td align='center' >
         <img src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/css3/css3-original-wordmark.svg" width="80">
     </td>
- <td align='center' width="200">
+    <td align='center' >
         <img src="https://github.com/bestofjs/bestofjs-webui/blob/master/public/logos/vscode.svg" width="80">
     </td>
-<td align='center' width="200">
-	<img src="https://1000logos.net/wp-content/uploads/2020/08/Visual-Studio-Logo.png">
-	</td>
-	<td align='center' width="200">
-<img src="https://www.pngitem.com/pimgs/m/241-2413401_anaconda-python-icon-hd-png-download.png" width="80">
-</td> 
+    <td align='center' >
+	<img src="https://1000logos.net/wp-content/uploads/2020/08/Visual-Studio-Logo.png" width="80">
+     </td>
+    <td align='center'>
+        <img src="https://www.pngitem.com/pimgs/m/241-2413401_anaconda-python-icon-hd-png-download.png" width="80">
+    </td> 
 </tr>
-
-    
 </table>
 </p>
 <p align="center">
