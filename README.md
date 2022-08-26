@@ -4,7 +4,7 @@
   </div>
 <p align="center">
 <a href="https://github.com/Roshaan-Ullah-Zaheer1">
-<img src="https://readme-typing-svg.herokuapp.com?lines=Data+Scientist&center=true&width=500&height=50">
+<img src="https://readme-typing-svg.herokuapp.com?lines=***Data+Scientist***&center=true&width=500&height=50">
 </a>
 
 ## I'm a Python Developer 
