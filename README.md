@@ -48,7 +48,7 @@
 	<img src="https://1000logos.net/wp-content/uploads/2020/08/Visual-Studio-Logo.png" width="120">
      </td>
     <td align='center' width="200">
-        <img src="https://www.pinpng.com/pngs/m/98-987797_anaconda-icon-anaconda-icon-png-transparent-png.png" width="80">
+        <img src="https://www.programmersought.com/images/282/eb2c5acfb0cf98f7219e8195e43c5732.png" width="80">
     </td> 
 </tr>
 </table>
