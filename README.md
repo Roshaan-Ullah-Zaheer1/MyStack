@@ -7,7 +7,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?lines=Data+Scientist&center=true&width=500&height=50">
 </a>
 
-# I'm a Python Developer 
+## I'm a Python Developer 
 - 🌱 I’m currently expanding my knowledge in DataScience.
 - 👯 I’m looking to collaborate with other content creators and developers.
 - 📢 Love to teach and inspire students. 
