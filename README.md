@@ -27,6 +27,9 @@
  <td align='center' width="200">
         <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="80">
     </td>
+	 <td align='center' width="200">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="80">
+    </td>
  <td align='center' width="200">
         <img src="https://git-scm.com/images/logos/1color-darkbg@2x.png" width="80">
     </td>
