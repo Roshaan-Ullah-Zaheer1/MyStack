@@ -5,10 +5,6 @@
 <p align="center">
 <a href="https://github.com/saadfareed"><img src="https://readme-typing-svg.herokuapp.com?lines=Data+Scientist&center=true&width=500&height=50"></a>
 	
- ## Bootcamp alert
-- [MLSA Job Hunting Bootcamp](https://github.com/saadfareed/MLSA-Job-Hunting-bootcamp) will started soon.
-<img align="right" alt="" src="fresh.jpg" width="270" />
-	
 ## My Python Development Course 
 - [Python Backend Show with Saad Fareed](https://www.youtube.com/channel/UCB5JukXadSvscRtCI0JfGmw)
 
