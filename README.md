@@ -48,7 +48,7 @@
 	<img src="https://1000logos.net/wp-content/uploads/2020/08/Visual-Studio-Logo.png" width="120">
      </td>
     <td align='center' width="200">
-        <img src="https://www.clipartmax.com/png/small/234-2342908_anaconda-anaconda-python-logo.png" width="80">
+        <img src="src="https://www.psych.mcgill.ca/labs/mogillab/anaconda2/pkgs/anaconda-navigator-1.4.3-py27_0/lib/python2.7/site-packages/anaconda_navigator/static/images/anaconda-icon-256x256.png" width="80">
     </td> 
 </tr>
 </table>
