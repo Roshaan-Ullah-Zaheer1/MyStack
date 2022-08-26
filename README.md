@@ -56,8 +56,7 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/roshaan-ullah-zaheer/"><img src="https://img.shields.io/badge/-Roshaan%20Ullah%20Zaheer-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:roshaanullahzaheer6@gmail.com"><img src="https://img.shields.io/badge/-roshaanullahzaheer6@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.instagram.com/saadfareed_sadi/"><img src="https://img.shields.io/badge/-@saadfareed-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://leetcode.com/Saadfareed/"><img src="https://img.shields.io/badge/-/saadfareed-e8b519?style=flat&logo=leetcode&logoColor=black"/></a>
+<a href="https://www.instagram.com/saadfareed_sadi/"><img src="https://img.shields.io/badge/-@Roshaan%20Ullah%20Zaheer-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
  </p>
  
 <br>
