@@ -86,12 +86,12 @@
 
 ## 🚀Github Metrics
 <p align="center">
-	<img width="625em" src="https://github.com/Roshaan-Ullah-Zaheer1/RoshaanZaheer/blob/main/github-metrics.svg" />
+	<img width="625em" src="https://github.com/Roshaan-Ullah-Zaheer1/MyStack/blob/main/github-metrics.svg" />
 </p>
 <br>
 ## 🐛Github Magic Game
 <p align="center">
-  <img src="https://github.com/Roshaan-Ullah-Zaheer1/RoshaanZaheer/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+  <img src="https://github.com/Roshaan-Ullah-Zaheer1/MyStack/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
 
 <br>
